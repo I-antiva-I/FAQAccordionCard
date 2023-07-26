@@ -120,6 +120,11 @@ h2
     color: var(--color-dark-grayish-blue);
 }
 
+.question:hover h2
+{
+    color: var(--color-soft-red);
+}
+
 .question-answer
 {
     padding-right: 2rem;
@@ -223,4 +228,6 @@ h2
         margin-right: auto;
         font-size: 3.5rem;
     }
+
+
 }
